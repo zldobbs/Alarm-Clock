@@ -8,4 +8,4 @@ Zachary Dobbs
 
 *Identify the top-level functional requirement for the clock, and model it with a use case diagram.  (Use case description will come later.  Only create the use case diagram now.)*
 
-![alt text](https://github.com/zldobbs/Alarm-Clock/blob/master/ClockUseCase.jpg?raw=true "Clock Use Case")
+![alt text](https://github.com/zldobbs/Alarm-Clock/blob/master/ClockUseCase.jpg "Clock Use Case")
